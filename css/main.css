@@ -2,3 +2,10 @@
 body {
     background-color: rgb(48, 160, 180);
 }
+p {
+    color: cadetblue;
+}
+
+h2 {
+    font-size: 50px;
+}
